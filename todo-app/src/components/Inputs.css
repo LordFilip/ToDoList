@@ -1,0 +1,33 @@
+h1{
+    color: white;
+}
+
+.inputs{
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 1px solid white;
+    padding-bottom: 4vh;
+    align-items: center;
+}
+.input{
+    color: white;
+    font-size: 3vh;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    width: 36%;
+}
+input{
+    height: 4vh;
+    border-radius: 6px;
+    padding-left: 4px;
+}
+button{
+    height: 4vh;
+    width: 8vh;
+}
+.input:last-child{
+    color: black;
+    width: 8%;
+}

@@ -1,0 +1,12 @@
+.innerMain{
+    background-color: rgb(5, 28, 48);
+    width: 60vw;
+    height: 60vh;
+    margin: auto;
+    margin-top: 40px;
+}
+.modal{
+    margin: auto;
+    width: 70%;
+    margin-top: 20px;
+}
