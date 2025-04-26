@@ -15,7 +15,7 @@ function Inputs({ onAdd }) {
       completed: false
     };
 
-    onAdd(newTask); // ⬅️ Šaljemo ga ka App komponenti
+    onAdd(newTask); 
 
     setTitle('');
     setDescription('');

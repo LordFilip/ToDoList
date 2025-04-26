@@ -1,3 +1,7 @@
 .task{
-    background-color: red;
+    background-color: rgb(1, 36, 43);
+    color: white;
+    border-bottom: 1px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
 }
